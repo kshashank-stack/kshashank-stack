@@ -29,29 +29,32 @@ Across **13+ years of experience**, including 12 years at Amazon, I have led glo
 
 ## What I build
 
+The seven projects below are **independent prototypes in progress**. I am sharing the problem framing, product direction and intended capabilities publicly while keeping the implementation and source repositories private. These are evolving builds—not finished commercial products or production deployments.
+
+
 ### AI product agents
 
-| Project | What it explores | Repository |
+| Project | What it explores | Stage / access |
 |---|---|---|
-| **VoyageIntel — AI Travel & Flight Intelligence Agent** | Historical flight-price analysis over 6–8 months, budget-versus-luxury multi-modal itineraries, and personalised destination discovery. | 🔒 Private |
-| **JobPulse AI — Autonomous Career Agent** | Job discovery, salary and skills matching, tailored resumes and cover letters, application workflow coordination, and pipeline analytics. | 🔒 Private |
+| **VoyageIntel — AI Travel & Flight Intelligence Agent** | Historical flight-price analysis over 6–8 months, budget-versus-luxury multi-modal itineraries, and personalised destination discovery. | 🧪 Prototype in progress · 🔒 Source private |
+| **JobPulse AI — Autonomous Career Agent** | Job discovery, salary and skills matching, tailored resumes and cover letters, application workflow coordination, and pipeline analytics. | 🧪 Prototype in progress · 🔒 Source private |
 
 ### Model evaluation, quality and reliability
 
-| Project | What it explores | Repository |
+| Project | What it explores | Stage / access |
 |---|---|---|
-| **LLM Comparator** | Side-by-side LLM evaluation, qualitative rationale analysis and human-in-the-loop auditing. | 🔒 Private |
-| **SpectraLLM ShadowBench** | Human-versus-LLM shadow evaluation, step and tool-action auditing, data export, and prompt/RAG/fine-tuning optimisation. | 🔒 Private |
-| **ModelBench & Doctor** *(Model-Evaluation-Agent)* | Multi-model prompt comparison, automated evaluation and diagnostic recommendations against business schemas and context data. | 🔒 Private |
-| **WorkflowGuard AI** | Pre-production reliability scanning for LLM applications and agentic workflows, including schema failures, guardrail rejections, retry storms and operational risks. | 🔒 Private |
+| **LLM Comparator** | Side-by-side LLM evaluation, qualitative rationale analysis and human-in-the-loop auditing. | 🧪 Prototype in progress · 🔒 Source private |
+| **SpectraLLM ShadowBench** | Human-versus-LLM shadow evaluation, step and tool-action auditing, data export, and prompt/RAG/fine-tuning optimisation. | 🧪 Prototype in progress · 🔒 Source private |
+| **ModelBench & Doctor** *(Model-Evaluation-Agent)* | Multi-model prompt comparison, automated evaluation and diagnostic recommendations against business schemas and context data. | 🧪 Prototype in progress · 🔒 Source private |
+| **WorkflowGuard AI** | Pre-production reliability scanning for LLM applications and agentic workflows, including schema failures, guardrail rejections, retry storms and operational risks. | 🧪 Prototype in progress · 🔒 Source private |
 
 ### AI economics
 
-| Project | What it explores | Repository |
+| Project | What it explores | Stage / access |
 |---|---|---|
-| **AI Cost Detective** | LLM FinOps and workflow-level cost optimisation: token and step-level economics, retries, caching, optimisation simulations, and quality-adjusted cost per successful task. | 🔒 Private |
+| **AI Cost Detective** | LLM FinOps and workflow-level cost optimisation: token and step-level economics, retries, caching, optimisation simulations, and quality-adjusted cost per successful task. | 🧪 Prototype in progress · 🔒 Source private |
 
-> The project repositories above are currently private. Their descriptions are provided as a transparent overview of my independent builds; source code is not publicly accessible at this time.
+> **Maturity and access note:** These are independent prototypes in progress. The public descriptions communicate the product ideas, problem spaces and intended capabilities; implementation and source code remain private. They are not presented as production-ready products, commercial releases or Amazon products.
 
 ## How I think about AI products
 
